@@ -1,1 +1,1 @@
-# Spatially-Parameterized-Implicit-Neural-Representation-for-HSI-Compression
+SPINR implementation
